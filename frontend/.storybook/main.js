@@ -1,5 +1,5 @@
 const WebpackPluginFailBuildOnWarning = require("./webpack-plugin-fail-build-on-warning");
-
+//hello test
 module.exports = {
   core: {
     builder: 'webpack5',
